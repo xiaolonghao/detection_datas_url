@@ -22,6 +22,4 @@ detection_datas
 
 └── voc2012
 
-    └── download.sh
-
-
+│   └── download.sh
